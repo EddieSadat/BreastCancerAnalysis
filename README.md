@@ -12,4 +12,5 @@ Data Source:
 http://archive.ics.uci.edu/dataset/14/breast+cancer
 
 Background:  
-This project was completed in Late 2022. This was my first experience using RStudio and as a result I can only imagine how amateurish my work and code are, lol.
+This project was completed in Late 2022. While I was starting to slowly understand R, I was still very beginner and relied heavily on notes and documenation.
+While the code may be amateurish, I still tried to provide meaningful visuals that were easy to understand. The final visual might be a little complex for some people to immediately understand, but I found that most people I showed it to were able to understand in a few minutes or with a small explanation.
